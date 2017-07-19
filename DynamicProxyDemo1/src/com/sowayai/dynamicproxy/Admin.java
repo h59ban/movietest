@@ -9,6 +9,7 @@ public class Admin implements Administrable{
 		System.out.println("------屎蛋-------");
 		System.out.println("------呵呵-------");
 		System.out.println("------哈哈-------");
+		//检查完成
 	}
 
 	
